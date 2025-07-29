@@ -28,8 +28,6 @@
 - Установить CarbonFields v3.6.6 в папку includes, название папки с CarbonFields - carbon-fields
 - Данные для входа в админку: admin, пароль: 123
 
-[Видео показывающее дизайн и соответствие верстки с pixel perfect](http://a1138732.xsph.ru/bandicam%202025-07-26%2020-48-29-650%20(online-video-cutter.com).mp4) *(Ctrl+Click (или Cmd+Click на Mac) для открытия в новой вкладке)*
+[Видео показывающее дизайн и соответствие верстки с pixel perfect](https://abjirayou.ru/front.mp4) *(Ctrl+Click (или Cmd+Click на Mac) для открытия в новой вкладке)*
 
-[Видео, которое показывает как реализована возможность редактирования контента](http://a1138732.xsph.ru/content-editing.mp4)
-
-Видео размещены на бесплатном домене от sprinthost на протоколе http
+[Видео, которое показывает как реализована возможность редактирования контента](https://abjirayou.ru/content-editing.mp4)
