@@ -27,3 +27,5 @@
 - Нужно также скопировать все картинки из проекта (папка image) и переместить их в wp-content\uploads\2025\07
 - Установить CarbonFields v3.6.6 в папку includes, название папки с CarbonFields - carbon-fields
 - Данные для входа в админку: admin, пароль: 123
+
+[Видео показывающее дизайн и соответствие верстки с pixel perfect](http://a1138732.xsph.ru/bandicam%202025-07-26%2020-48-29-650%20(online-video-cutter.com).mp4) *(Ctrl+Click (или Cmd+Click на Mac) для открытия в новой вкладке)*
